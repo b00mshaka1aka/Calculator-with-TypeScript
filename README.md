@@ -4,7 +4,7 @@ Math calculator with basic arithmetic operations without eval
 
 ```npm run calc```
 
-Then you can calc simple math operations
+Then you can calc with complex math operations.
 
 Examples:
 
@@ -15,4 +15,10 @@ Result: 20
 Result: 180
 > 19 + -10
 Result: 9
+> 2**
+Result: 4
+> 3 ** 3
+Result: 27
+> sin(3.14)
+Result: 0
 ```
