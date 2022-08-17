@@ -1,15 +1,5 @@
-# react-js-tutorial
+# Calculator with TypeScript
 
-## Lesson 1:
-Basic configuration for the project on the master branch. What configurations you can find:
-* Babel
-* Webpack
-* Typescript
-* Eslint
-* Jest
-* Precommit hooks / husky
-
-## Lesson 2:
 Math calculator with basic arithmetic operations without eval
 
 ```npm run calc```
