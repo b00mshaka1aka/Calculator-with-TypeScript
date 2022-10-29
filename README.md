@@ -1,6 +1,6 @@
 # Calculator with TypeScript
 
-Math calculator with basic arithmetic operations without eval
+Math calculator with basic arithmetic operations without eval. It based on reverse polish notation.
 
 ```npm run calc```
 
